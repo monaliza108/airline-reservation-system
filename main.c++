@@ -1,9 +1,7 @@
-// Airlines Reservation System - CodeWithC.com
-
 #include<iostream>
 #include<cstdio>
 #include<fstream>
-#include<sstream>
+#include<stream>
 #include<string>
 #include<cstdlib>
 #include<conio.h>
